@@ -18,7 +18,7 @@ I am a frontend developer skilled in developing applications using Vue and React
 ## Projects
 ### 1. Tic-Tac-Toe Telegram Bot
 - **Description**: A Tic-Tac-Toe game implemented in a Telegram bot using Node.js.
-- **Telegram Bot**: [Play the game](https://t.me/TicTakToeforeverybodybot)
+- **Telegram Bot**:
 - **Source Code**: [GitHub Repository](https://github.com/Tokimikichika/telegram-bot-tictactoe)
 
 ### 2. Chat Application
