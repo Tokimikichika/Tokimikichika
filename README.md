@@ -7,13 +7,21 @@ I am a frontend developer skilled in developing applications using Vue and React
 
 ## Skills
 - **JavaScript and ES6+**
-- **React**: Basic knowledge
-- **Vue**: 
-- **HTML, CSS/SASS**: Proficient in creating cross-browser compatible layouts
-- **Node.js**
-- **HTTP, RESTful API**
-- **Version Control Systems**: Experience with Git
-- **Operating Systems**: Proficient in Linux (Ubuntu)
+— JavaScript (ES6+), React (basic level), Vue.js;
+— Creating responsive and cross-browser compatible interfaces using HTML, CSS/SASS;
+— Experience with Vue combined with Next.js/Nuxt.js for Server-Side Rendering (SSR).
+
+**Backend and Server Technologies:**
+— Development with Node.js, including work with NestJS (Nest.js) — a framework for building scalable applications;
+— Implementing RESTful APIs, integrating WebSocket for real-time applications.
+
+**Databases:**
+— Relational: designing and optimizing queries in PostgreSQL;
+— NoSQL: working with MongoDB, including building document-oriented structures.
+
+**Additional Skills:**
+— Deep understanding of HTTP, interaction with external APIs;
+— Setting up business logic and middleware in NestJS
 
 ## Projects
 ### 1. Tic-Tac-Toe Telegram Bot
