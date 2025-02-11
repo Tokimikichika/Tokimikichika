@@ -6,7 +6,7 @@
 I am a frontend developer skilled in developing applications using Vue and React. My work experience is primarily based at [alltarget.ru](https://alltarget.ru). I strive to create intuitive and visually appealing interfaces, combining a creative approach with deep technical knowledge.
 
 ## Skills
-- **JavaScript and ES6+**
+**JavaScript and ES6+**
 — JavaScript (ES6+), React (basic level), Vue.js;
 — Creating responsive and cross-browser compatible interfaces using HTML, CSS/SASS;
 — Experience with Vue combined with Next.js/Nuxt.js for Server-Side Rendering (SSR).
