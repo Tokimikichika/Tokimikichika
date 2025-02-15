@@ -3,7 +3,7 @@
 # Frontend Developer Portfolio
 
 ## About Me
-I am a frontend developer skilled in developing applications using Vue and React. My work experience is primarily based at [alltarget.ru](https://alltarget.ru). I strive to create intuitive and visually appealing interfaces, combining a creative approach with deep technical knowledge.
+I am a frontend developer with 4 years of experience, skilled in developing applications using Vue and React. My work experience includes projects at Alltarget.ru, FirmPrice, and Citilab.ru. I strive to create intuitive and visually appealing interfaces, combining a creative approach with deep technical knowledge.
 
 ## Skills
 **JavaScript and ES6+**
@@ -34,7 +34,7 @@ I am a frontend developer skilled in developing applications using Vue and React
 - **Client Part**: [GitHub Repository](https://github.com/Tokimikichika/chat-client)
 - **Server Part**: [GitHub Repository](https://github.com/Tokimikichika/chat-server)
 
-### 3. Hexlet Project: Brain Games
+### 3. Brain Games
 - **Description**: A console application consisting of 5 mini-games that test logical and arithmetic skills.
 - **Source Code**: [GitHub Repository](https://github.com/Tokimikichika/frontend-project-lvl1)
 
