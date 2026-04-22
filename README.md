@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Frontend Developer Portfolio
+# Full-stack Developer Portfolio
 
 ## About Me
 Fullstack developer with 4 years of commercial experience (last 1.5 years focused on Vue/React + Node.js/Prisma/PostgreSQL). I build scalable web applications, design efficient databases, and optimize performance. I take ownership of features from idea to deployment.
