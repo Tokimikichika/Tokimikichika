@@ -32,8 +32,8 @@ Fullstack developer with 4 years of commercial experience (last 1.5 years focuse
 — Deep understanding of HTTP, interaction with external APIs;
 — Setting up business logic and middleware in NestJS
 
-**Commercial Experience**
-zaboosty.ru (Jan 2026 – present) · Fullstack Developer
+## Commercial Experience
+— zaboosty.ru (Jan 2026 – present) · Fullstack Developer
 Stack: Vue 3, Nuxt 4, TypeScript, Node.js, Prisma, PostgreSQL, Docker, pnpm, Turbo, Grafana
 Built admin panel and backend in a monorepo (pnpm workspace, Turbo) with Docker and unified code standards (Biome).
 Designed and implemented RBAC (roles, granular permissions read/write/delete) with backend + UI checks.
@@ -41,21 +41,21 @@ Developed promo codes & logistics modules: CRUD, filtering, pagination, Prisma i
 Integrated marketplace API (orders, products, statuses, rate limits) via internal packages.
 Wrote complex SQL queries and optimized performance.
 
-Wildbuyer.ru (May 2025 – Dec 2025) · Fullstack Developer
+— Wildbuyer.ru (May 2025 – Dec 2025) · Fullstack Developer
 Stack: Vue 3, Node.js, Prisma, SQL, Docker, AG Grid, Ant Design, Amplitude
 Built an auto-reply module from scratch: complex tables (AG Grid), rule builder with dynamic forms, XML file upload & parsing.
 Refactored backend services (Node.js + Prisma), optimized endpoints from 800ms to 200ms.
 Integrated Amplitude analytics: set up server proxy and frontend events for registration tracking.
 Extended SQL queries to provide more detailed data in UI tables.
 
-Citilab.ru (June 2024 – Dec 2024) · Fullstack Developer (part-time)
+— Citilab.ru (June 2024 – Dec 2024) · Fullstack Developer (part-time)
 Stack: React, NestJS, Node.js, Docker, Telegram API
 Optimized NestJS backend services for a medical platform.
 Built a referral system (codes, bonuses, stats) using Prisma transactions.
 Developed a Telegram bot for clinic appointments and consultations.
 Configured Docker and CI/CD, reducing release time by ~25%.
 
-FirmPrice (May 2023 – May 2024) · Frontend Developer
+— FirmPrice (May 2023 – May 2024) · Frontend Developer
 Stack: React, JavaScript, PHP, Docker
 Built mini-apps for small businesses, increasing conversion by 10–15%.
 Implemented server logic and integrations using PHP.
