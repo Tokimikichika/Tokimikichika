@@ -3,25 +3,63 @@
 # Frontend Developer Portfolio
 
 ## About Me
-I am a frontend developer with 4 years of experience, skilled in developing applications using Vue and React. My work experience includes projects at Alltarget.ru, FirmPrice, and Citilab.ru. I strive to create intuitive and visually appealing interfaces, combining a creative approach with deep technical knowledge.
+Fullstack developer with 4 years of commercial experience (last 1.5 years focused on Vue/React + Node.js/Prisma/PostgreSQL). I build scalable web applications, design efficient databases, and optimize performance. I take ownership of features from idea to deployment.
 
 ## Skills
-**JavaScript and ES6+**
-— JavaScript (ES6+), React (basic level), Vue.js;
-— Creating responsive and cross-browser compatible interfaces using HTML, CSS/SASS;
-— Experience with Vue combined with Next.js/Nuxt.js for Server-Side Rendering (SSR).
+**Frontend**
+— Vue 3 (Composition API, Nuxt 3/4), React (hooks, Context API)
+— TypeScript, JavaScript (ES6+)
+— HTML5, CSS3, SASS, responsive/cross-browser layout
+— UI libraries: AG Grid, Ant Design Vue
 
 **Backend and Server Technologies:**
-— Development with Node.js, including work with NestJS (Nest.js) — a framework for building scalable applications;
-— Implementing RESTful APIs, integrating WebSocket for real-time applications.
+— Node.js (Express, NestJS, Nuxt server)
+— REST API design, WebSocket
+— Prisma ORM, raw SQL optimization
+— Authentication & authorization (JWT, RBAC)
 
 **Databases:**
 — Relational: designing and optimizing queries in PostgreSQL;
 — NoSQL: working with MongoDB, including building document-oriented structures.
 
+**DevOps & Tools**
+— Docker (Dockerfiles, docker-compose)
+— CI/CD (GitLab CI, GitHub Actions)
+— Git (Git Flow, code review)
+— Grafana (basic monitoring)
+
 **Additional Skills:**
 — Deep understanding of HTTP, interaction with external APIs;
 — Setting up business logic and middleware in NestJS
+
+**Commercial Experience**
+zaboosty.ru (Jan 2026 – present) · Fullstack Developer
+Stack: Vue 3, Nuxt 4, TypeScript, Node.js, Prisma, PostgreSQL, Docker, pnpm, Turbo, Grafana
+Built admin panel and backend in a monorepo (pnpm workspace, Turbo) with Docker and unified code standards (Biome).
+Designed and implemented RBAC (roles, granular permissions read/write/delete) with backend + UI checks.
+Developed promo codes & logistics modules: CRUD, filtering, pagination, Prisma integration, external API parsing (HTML).
+Integrated marketplace API (orders, products, statuses, rate limits) via internal packages.
+Wrote complex SQL queries and optimized performance.
+
+Wildbuyer.ru (May 2025 – Dec 2025) · Fullstack Developer
+Stack: Vue 3, Node.js, Prisma, SQL, Docker, AG Grid, Ant Design, Amplitude
+Built an auto-reply module from scratch: complex tables (AG Grid), rule builder with dynamic forms, XML file upload & parsing.
+Refactored backend services (Node.js + Prisma), optimized endpoints from 800ms to 200ms.
+Integrated Amplitude analytics: set up server proxy and frontend events for registration tracking.
+Extended SQL queries to provide more detailed data in UI tables.
+
+Citilab.ru (June 2024 – Dec 2024) · Fullstack Developer (part-time)
+Stack: React, NestJS, Node.js, Docker, Telegram API
+Optimized NestJS backend services for a medical platform.
+Built a referral system (codes, bonuses, stats) using Prisma transactions.
+Developed a Telegram bot for clinic appointments and consultations.
+Configured Docker and CI/CD, reducing release time by ~25%.
+
+FirmPrice (May 2023 – May 2024) · Frontend Developer
+Stack: React, JavaScript, PHP, Docker
+Built mini-apps for small businesses, increasing conversion by 10–15%.
+Implemented server logic and integrations using PHP.
+Integrated REST APIs, ensured responsiveness and cross-browser compatibility.
 
 ## Projects
 ### 1. Tic-Tac-Toe Telegram Bot
